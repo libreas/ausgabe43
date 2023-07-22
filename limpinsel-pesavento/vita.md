@@ -1,0 +1,2 @@
+---
+**Mirco Limpinsel-Pesavento** ist Literaturwissenschaftler, arbeitete unter anderem zur Hermeneutikgeschichte, zur Methodologie der Digital Humanities sowie zur Architekturgeschichte und ist seit 2019 Bibliothekar, derzeit am Bauhaus-Archiv / Museum für Gestaltung in Berlin. ORCID: <https://orcid.org/0000-0002-4301-6892>
