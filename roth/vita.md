@@ -1,2 +1,2 @@
 ---
-**Alexandra Roth** ...
+**Alexandra C. Roth** ist Diplom-Bibliothekarin und hat einen Masterabschluss in "Medien und Bildung". Sie ist seit 2009 bei der Münchner Stadtbibliothek beschäftigt. Derzeit absolviert sie ein Promotionsstudium am Institut für Bibliotheks- und Informationswissenschaft der Humboldt-Universität zu Berlin.
