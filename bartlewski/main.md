@@ -497,7 +497,7 @@ Bibliotheken.
 
 Für Sektion 1 wurden 20 Einrichtungen in die Erhebung einbezogen:
 
-![Abbildung 1: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 1 anhand der Betriebsgröße](img.Abb.01_DBV-Sek1.jpg)
+![Abbildung 1: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 1 anhand der Betriebsgröße](img/Abb_01_DBV-Sek1.jpg)
 
 Die Auswertung (Abbildung 1) zeigt, dass der Anteil der Frauen zwar
 insgesamt höher ist als jener der Männer, sich die Werte bei zunehmender
@@ -511,7 +511,7 @@ Gesamtanteil von Frauen im gesamten Berufsfeld. Man sieht allerdings
 auch, dass das Verhältnis von Frauen und Männern in den Bibliotheken mit
 über 50 Stellen annähernd ausgeglichen ist.
 
-![Abbildung 2: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 2 anhand der Betriebsgröße](img/Abb.02_DBV-Sek2.jpg)
+![Abbildung 2: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 2 anhand der Betriebsgröße](img/Abb_02_DBV-Sek2.jpg)
 
 In Sektion 3A, in der zum Auszählungszeitpunkt 104 Einrichtungen
 gelistet waren, finden sich, anhand der Personalstellen gemessen,
@@ -520,7 +520,7 @@ kleinere Bibliotheken im Vergleich zu den Sektionen 1 und 2 (Abbildung
 in dieser Sektion vertreten und weisen auch einen merklich höheren
 Anteil an Frauen in Leitungspositionen auf als Männer.
 
-![Abbildung 3: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 3A anhand der Betriebsgröße](img/Abb.03_DBV-Sek3A.jpg)
+![Abbildung 3: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 3A anhand der Betriebsgröße](img/Abb_03_DBV-Sek3A.jpg)
 
 Die Sektion 3B ist die zahlenmäßig größte Sektion unter den
 DBV-Mitgliedern. Hier wurden Daten zu 1.169 Einrichtungen erhoben
@@ -530,7 +530,7 @@ Frauen dort um das 8,5fache häufiger in der obersten Hierarchieebene
 vertreten. Unter allen Sektionen ist Sektion 3B jene mit dem geringsten
 Männeranteil.
 
-![Abbildung 4: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 3B anhand der Betriebsgröße](img/Abb.04_DBV-Sek3B.jpg)
+![Abbildung 4: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 3B anhand der Betriebsgröße](img/Abb_04_DBV-Sek3B.jpg)
 
 Für die öffentlichen Bibliotheken lässt sich insgesamt festhalten, dass
 der Anteil von Frauen in Leitungspositionen größer ist als der Anteil
@@ -552,7 +552,7 @@ Erhebung auch einen wesentlichen Unterschied zu den Daten für die
 Personalstellen ist der Anteil der Männer in Leitungspositionen größer
 als jener der Frauen.[^3]
 
-![](img/Abb.05_DBV-Sek4.jpg)(Abbildung 5: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 4 anhand der Betriebsgröße)
+![](img/Abb_05_DBV-Sek4.jpg)(Abbildung 5: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 4 anhand der Betriebsgröße)
 
 Die Mitglieder der Sektion 5 sind wissenschaftliche Spezialbibliotheken.
 Von der Betriebsgröße lassen sich diese Einrichtungen mit denen aus
@@ -564,7 +564,7 @@ Vielfaches höher als jener der Männer. Herauszustellen ist noch, dass in
 Einrichtungen mit \> 5 bis 10 Personalstellen mehr Männer in
 Leitungspositionen zu finden sind als Frauen.
 
-![Abbildung 6: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 5 anhand der Betriebsgröße](img/Abb.06_DBV-Sek5.jpg)
+![Abbildung 6: Geschlechterverhältnis der Leitungsebene der DBV-Sektion 5 anhand der Betriebsgröße](img/Abb_06_DBV-Sek5.jpg)
 
 Um eine Entwicklung über die Jahre nachzeichnen zu können, werden im
 Folgenden kurz die Auszählungen anhand der Betriebsgröße der Jahrbücher
@@ -584,11 +584,11 @@ Bibliotheken wie die Auszählung der DBV-Mitgliederstatistik (Abbildungen
 Frauenanteil um ein Vielfaches höher als jener der Männer. Mit
 zunehmender Bibliotheksgröße sinkt der Frauenanteil im Verhältnis.
 
-![Abbildung 7: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, JÖB 1994](img/Abb.07_JÖB-1994.jpg)
+![Abbildung 7: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, JÖB 1994](img/Abb_07_JOB-1994.jpg)
 
-![Abbildung 8: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, JÖB 2002/03](img/Abb.08_JÖB-2002.jpg)
+![Abbildung 8: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, JÖB 2002/03](img/Abb_08_JOB-2002.jpg)
 
-![Abbildung 9: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, JÖB 2012/13](img/Abb.09_JÖB-2012.jpg)
+![Abbildung 9: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, JÖB 2012/13](img/Abb_09_JOB-2012.jpg)
 
 ###### 5.2.1.3 Auswertung der VDB-Jahrbücher
 
@@ -611,11 +611,11 @@ findet sich eine umgekehrte Ausgangslage. Männer in Leitungspositionen
 sind in diesen Einrichtungen häufiger vertreten als Frauen.
 
 
-![Abbildung 10: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, VDB-Jahrbuch 1991](img/Abb.10_VDB-1991.jpg)
+![Abbildung 10: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, VDB-Jahrbuch 1991](img/Abb_10_VDB-1991.jpg)
 
-![Abbildung 11: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, VDB-Jahrbuch 2001/02](img/Abb.11_VDB-2001.jpg)
+![Abbildung 11: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, VDB-Jahrbuch 2001/02](img/Abb_11_VDB-2001.jpg)
 
-![Abbildung 12: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, VDB-Jahrbuch 2011/12](img/Abb.12_VDB-2011.jpg)
+![Abbildung 12: Geschlechterverhältnis der Leitungsebene in öffentlichen Bibliotheken anhand der Betriebsgröße, VDB-Jahrbuch 2011/12](img/Abb_12_VDB-2011.jpg)
 
 ##### 5.2.2 Auswertung in Gesamtzahlen
 
@@ -655,35 +655,35 @@ Bibliotheken dennoch ein Anteil weiblicher Führungskräfte, der über dem
 Prozentsatz weiblicher Mitarbeiterinnen im Allgemeinen liegt (Abbildung
 21).
 
-![Abbildung 13: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 1](img/Abb.13_DBV-Sek1_gesamt.jpg)
+![Abbildung 13: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 1](img/Abb_13_DBV-Sek1_gesamt.jpg)
 
-![Abbildung 14: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 2](img/Abb.14_DBV-Sek2_gesamt.jpg)
+![Abbildung 14: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 2](img/Abb_14_DBV-Sek2_gesamt.jpg)
 
-![Abbildung 15: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 2, bereinigte Version](img/Abb.15_DBV-Sek2_gesamt_bereinigt.jpg)
+![Abbildung 15: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 2, bereinigte Version](img/Abb_15_DBV-Sek2_gesamt_bereinigt.jpg)
 
-![Abbildung 16: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3A](img/Abb.16_DBV-Sek3A_gesamt.jpg)
+![Abbildung 16: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3A](img/Abb_16_DBV-Sek3A_gesamt.jpg)
 
-![Abbildung 17: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3A, bereinigte Version](img/Abb.17_DBV-Sek3A_gesamt_bereinigt.jpg)
+![Abbildung 17: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3A, bereinigte Version](img/Abb_17_DBV-Sek3A_gesamt_bereinigt.jpg)
 
-![Abbildung 18: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3B](img/Abb.18_DBV-Sek3B_gesamt.jpg)
+![Abbildung 18: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3B](img/Abb_18_DBV-Sek3B_gesamt.jpg)
 
-![Abbildung 19: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3B, bereinigte Version](img/Abb.19_DBV-Sek3B_gesamt_bereinigt.jpg)
+![Abbildung 19: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 3B, bereinigte Version](img/Abb_19_DBV-Sek3B_gesamt_bereinigt.jpg)
 
-![Abbildung 20: Geschlechterverhältnis in Gesamtzahlen für die öffentlichen Bibliotheken (DBV-Mitglieder)](img/Abb.20_DBV-Sek1-3_gesamt.jpg)
+![Abbildung 20: Geschlechterverhältnis in Gesamtzahlen für die öffentlichen Bibliotheken (DBV-Mitglieder)](img/Abb_20_DBV-Sek1-3_gesamt.jpg)
 
-![Abbildung 21: Geschlechterverhältnis in Gesamtzahlen für die öffentlichen Bibliotheken (DBV-Mitglieder), bereinigte Version](img/Abb.21_DBV-Sek1-3_gesamt_bereinigt.jpg)
+![Abbildung 21: Geschlechterverhältnis in Gesamtzahlen für die öffentlichen Bibliotheken (DBV-Mitglieder), bereinigte Version](img/Abb_21_DBV-Sek1-3_gesamt_bereinigt.jpg)
 
-![Abbildung 22: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 4](img/Abb.22_DBV-Sek4_gesamt.jpg)
+![Abbildung 22: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 4](img/Abb_22_DBV-Sek4_gesamt.jpg)
 
-![Abbildung 23: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 4, bereinigte Version](img/Abb.23_DBV-Sek4_gesamt_bereinigt.jpg)
+![Abbildung 23: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 4, bereinigte Version](img/Abb_23_DBV-Sek4_gesamt_bereinigt.jpg)
 
-![Abbildung 24: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 5](img/Abb.24_DBV-Sek5_gesamt.jpg)
+![Abbildung 24: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 5](img/Abb_24_DBV-Sek5_gesamt.jpg)
 
-![Abbildung 25: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 5, bereinigte Version](img/Abb.25_DBV-Sek5_gesamt_bereinigt.jpg)
+![Abbildung 25: Geschlechterverhältnis in Gesamtzahlen für DBV-Sektion 5, bereinigte Version](img/Abb_25_DBV-Sek5_gesamt_bereinigt.jpg)
 
-![Abbildung 26: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder](img/Abb.26_DBV-Sek4-5_gesamt.jpg)
+![Abbildung 26: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder](img/Abb_26_DBV-Sek4-5_gesamt.jpg)
 
-![Abbildung 27: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder), bereinigte Version](img/Abb.27_DBV-Sek4-5_gesamt_bereinigt.jpg)
+![Abbildung 27: Geschlechterverhältnis in Gesamtzahlen für die wissenschaftlichen Bibliotheken (DBV-Mitglieder), bereinigte Version](img/Abb_27_DBV-Sek4-5_gesamt_bereinigt.jpg)
 
 Die Auswertung der Gesamtzahlen zeigt für die wissenschaftlichen
 Bibliotheken der DBV-Mitgliederliste ebenfalls, dass in den beiden
@@ -709,17 +709,17 @@ sind die Anteile konstant hoch und mit jeweils über 80% höher als die
 prozentuale Gesamtzahl weiblicher Beschäftigte in Bibliotheken
 (Abbildungen 29, 31 und 33).
 
-![Abbildung 28: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 1994](img/Abb.28_JÖB-1994_gesamt.jpg)
+![Abbildung 28: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 1994](img/Abb_28_JOB-1994_gesamt.jpg)
 
-![Abbildung 29: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 1994, bereinigte Version](img/Abb.29_JÖB-1994_gesamt_bereinigt.jpg)
+![Abbildung 29: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 1994, bereinigte Version](img/Abb_29_JOB-1994_gesamt_bereinigt.jpg)
 
-![Abbildung 30: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2002/03](img/Abb.30_JÖB-2002_gesamt.jpg)
+![Abbildung 30: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2002/03](img/Abb_30_JOB-2002_gesamt.jpg)
 
-![Abbildung 31: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2002/03, bereinigte Version](img/Abb.31_JÖB-2002_gesamt_bereinigt.jpg)
+![Abbildung 31: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2002/03, bereinigte Version](img/Abb_31_JOB-2002_gesamt_bereinigt.jpg)
 
-![Abbildung 32: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2012/13](img/Abb.32_JÖB-2012_gesamt.jpg)
+![Abbildung 32: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2012/13](img/Abb_32_JOB-2012_gesamt.jpg)
 
-![Abbildung 33: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2012/13, bereinigte Version](img/Abb.33_JÖB-2012_gesamt_bereinigt.jpg\]
+![Abbildung 33: Geschlechterverhältnis in Gesamtzahlen für öffentliche Bibliotheken, Auszählung JÖB 2012/13, bereinigte Version](img/Abb_33_JOB-2012_gesamt_bereinigt.jpg)
 
 ###### 5.2.2.3 Auswertung der VDB-Jahrbücher
 
@@ -736,17 +736,17 @@ der Frauen stetig zu (Abbildung 37) und die Daten aus 2011/12 zeigen
 erstmals für den gesamten WB-Bereich einen höheren Anteil an weiblichen
 als an männlichen Führungskräften (Abbildung 39).
 
-![Abbildung 34: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 1991](img/Abb.34_VDB-1991_gesamt.jpg)
+![Abbildung 34: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 1991](img/Abb_34_VDB-1991_gesamt.jpg)
 
-![Abbildung 35: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 1991, bereinigte Version](Abb.35_VDB-1991_gesamt_bereinigt.jpg)
+![Abbildung 35: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 1991, bereinigte Version](img/Abb_35_VDB-1991_gesamt_bereinigt.jpg)
 
-![Abbildung 36: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2001/02](img/Abb.36_VDB-2001_gesamt.jpg)
+![Abbildung 36: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2001/02](img/Abb_36_VDB-2001_gesamt.jpg)
 
-![Abbildung 37: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2001/02, bereinigte Version](img/Abb.37_VDB-2001_gesamt_bereinigt.jpg)
+![Abbildung 37: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2001/02, bereinigte Version](img/Abb_37_VDB-2001_gesamt_bereinigt.jpg)
 
-![Abbildung 38: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2011/12](img/Abb.38_VDB-2011_gesamt.jpg)
+![Abbildung 38: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2011/12](img/Abb_38_VDB-2011_gesamt.jpg)
 
-![Abbildung 39: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2011/12, bereinigte Version](img/Abb.39_VDB-2011_gesamt_bereinigt.jpg)
+![Abbildung 39: Geschlechterverhältnis in Gesamtzahlen für wissenschaftliche Bibliotheken, Auszählung VDB-Jahrbuch 2011/12, bereinigte Version](img/Abb_39_VDB-2011_gesamt_bereinigt.jpg)
 
 ### 6. Diskussion 
 
@@ -847,13 +847,13 @@ Frauen im Bibliotheksbereich. In den Arbeiten von Laura Stadler (STADLER
 2005) klingen bereits kritische zu hinterfragende Punkte wie die
 Vereinbarkeit von Familie und Beruf an.
 
-![Abbildung 40: Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken"](img/Abb.40_Zeitreihe-ÖB.jpg)
+![Abbildung 40: Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken"](img/Abb_40_Zeitreihe-OB.jpg)
 
-![Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken", bereinigte Version](img/Abb.41_Zeitreihe-ÖB_bereinigt.jpg)
+![Zeitreihe "Frauenanteil in Leitungspositionen an öffentlichen Bibliotheken", bereinigte Version](img/Abb_41_Zeitreihe-OB_bereinigt.jpg)
 
-![Abbildung 42: Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken"](img/Abb.42_Zeitreihe-WB.jpg)
+![Abbildung 42: Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken"](img/Abb_42_Zeitreihe-WB.jpg)
 
-![Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken", bereinigte Version](img/Abb.43_Zeitreihe-WB_bereinigt.jpg)
+![Zeitreihe "Frauenanteil in Leitungspositionen an wissenschaftlichen Bibliotheken", bereinigte Version](img/Abb_43_Zeitreihe-WB_bereinigt.jpg)
 
 ### 7. Danksagung
 
