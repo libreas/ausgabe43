@@ -1,0 +1,7 @@
+--- 
+**Julia Bartlewski**
+([https://orcid.org/0000-0001-5959-4999](https://orcid.org/0000-0001-5959-4999))
+hat Bibliotheks- und Informationswissenschaft (MA LIS) an der
+Humboldt-Universität zu Berlin studiert und ist seit 2022 als
+wissenschaftliche Mitarbeiterin an der Universitätsbibliothek Bielefeld
+tätig.
